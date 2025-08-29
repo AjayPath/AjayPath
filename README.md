@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Odometry code for an AGV.
+- 🌱 I’m currently learning how to create smooth PIDs for multi-DOF robots.
+- 🤔 I’m looking for help with optimizing code for robotic applications.
+
 <!--
 **AjayPath/AjayPath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
