@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning how to create smooth PIDs for multi-DOF robots.
 - 🤔 I’m looking for help with optimizing code for robotic applications.
 
-[![AjayPath's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayPath&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **AjayPath/AjayPath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
